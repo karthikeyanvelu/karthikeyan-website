@@ -1,7 +1,7 @@
 ## # Description
 Hosting my personal static website in GitHub for free.
 
-URL: [sarath-pm.github.io](https://karthikeyanvelu.github.io/)
+URL: [karthikeyanvelu.github.io](https://karthikeyanvelu.github.io/karthikeyan-website/)
 
 ## > Feature
 - HTML Static based website (Personal Profile)
@@ -22,7 +22,7 @@ URL: [sarath-pm.github.io](https://karthikeyanvelu.github.io/)
 _Please go and walk through the official GitHub [link](https://pages.github.com/) it's an easy way to set up._
 
 ## > My Website Output
-Please go and check that the URL of my domain: [karthikeyanvelu.github.io](https://karthikeyanvelu.github.io/)
+Please go and check that the URL of my domain: [karthikeyanvelu.github.io](https://karthikeyanvelu.github.io/karthikeyan-website/)
 
 _Complete-Screenshot_
 
