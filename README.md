@@ -24,9 +24,9 @@ _Please go and walk through the official GitHub [link](https://pages.github.com/
 ## > My Website Output
 Please go and check that the URL of my domain: [karthikeyan.github.io](https://karthikeyanvelu.github.io/karthikeyan-website/)
 
-_Complete-Screenshot_
+<!--- _Complete-Screenshot_
 
-<img src="https://user-images.githubusercontent.com/86669668/176893800-ae2fe310-6df1-4d2a-b220-8bceb8a79d7c.png" height= "350" width="200">
+## <img src="https://user-images.githubusercontent.com/86669668/176893800-ae2fe310-6df1-4d2a-b220-8bceb8a79d7c.png" height= "350" width="200"> --->
 
 ## > Directory Structure
 
